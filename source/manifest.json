@@ -1,0 +1,22 @@
+{
+  "name": "Angeles' coding notepad",
+  "start_url": "https://angelesbroullon.gitlab.io/code-notepad",
+  "short_name": "Coding notepad",
+  "lang": "en-EN",
+  "display": "standalone",
+  "background_color": "#414051",
+  "theme_color": "#414051",
+  "icons": [
+    {
+      "src": "./images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
