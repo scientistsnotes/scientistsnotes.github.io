@@ -147,12 +147,12 @@ feed:
 ## Docs: https://hexo.io/docs/one-command-deployment
 
 deploy:
-#  type: git
-#  repo: git@github.com:Wendelvsouza/scientistsnotes.github.io.git
-#  branch: main
-#  message: Updating Blog
-#  name: Wendelvsouza
-#  email: wendelvaccani@gmail.com
+ type: git
+ repo: git@github.com:Wendelvsouza/scientistsnotes.github.io.git
+ branch: main
+ message: Updating Blog
+ name: Wendelvsouza
+ email: wendelvaccani@gmail.com
 
 root: ""
 
