@@ -1,10 +1,9 @@
 ---
 title: THEORY - Infrared Spectroscopy in the Analysis of Microplastics
 date: 2024-08-20 16:43:00
-mathjax: true
 categories: [Programming]
 tags: [Spectroscopy, Experimental Physics, Microplastic]
-
+mathjax: true
 ---
 
 # Introduction 
