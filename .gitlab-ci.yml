@@ -1,0 +1,20 @@
+include:
+  - template: Dependency-Scanning.gitlab-ci.yml
+
+image: node:20-alpine # use nodejs v20 LTS
+cache:
+  paths:
+    - node_modules/
+
+before_script:
+  - npm install hexo-cli -g
+  - npm install
+
+pages:
+  script:
+    - hexo generate
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
