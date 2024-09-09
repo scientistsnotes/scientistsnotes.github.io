@@ -131,3 +131,16 @@ In order to reduce the damage caused by microplastics, certain measures should b
 <p style="text-align: center;">
   Figure 9: Polymer table<br>
   Source: Teacher material </p>
+
+# References
+
+[1] Teacher material unavailable
+
+[2] Braun, S - Onde o plástico é proibido no mundo - 30/06/2019. Disponível em:
+
+https://www.dw.com/pt-br/onde-o-pl%C3%A1stico-%C3%A9-proibido-no-mundo/a- 49398718
+ 
+[3] The New Plastics Economy Rethinking the future of plastics, World Economic Forum, 2016. Disponível em: http://www3.weforum.org/docs/WEF_The_New_Plastics_Economy.pdf
+
+
+[4] Presse, F - Oceanos terão mais plástico do que peixes em 2050 diz estudo. G1, 20/01/2016 Disponível em: http://g1.globo.com/natureza/noticia/2016/01/oceanos-terao-mais-plasticos-doque-peixes-em-2050-diz-estudo.html
