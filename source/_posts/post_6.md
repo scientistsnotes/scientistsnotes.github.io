@@ -216,27 +216,27 @@ The next post will deal with the experimental part in which we will collect a sm
 
 # References
 
-[1] Britannica, The Editors of Encyclopaedi - "John Wesley Hyatt" - Encyclopedia Britannica, 24 Nov. 2022. Disponível em:
+[1] Britannica, The Editors of Encyclopaedi - "John Wesley Hyatt" - Encyclopedia Britannica, 24 Nov. 2022. Available in:
 
 https://www.britannica.com/biography/John-Wesley-Hyatt
 
-[2] Carrança, T- Consumo de plásticos explode na pandemia e Brasil recicla menos de 2% do material - BBC News Brasil - 30 novembro 2020. Disponível em:
+[2] Carrança, T- Consumo de plásticos explode na pandemia e Brasil recicla menos de 2% do material - BBC News Brasil - 30 novembro 2020. Available in:
 
 https://www.bbc.com/portuguese/brasil-55131470
 
-[3] Stieven, L; Marlene, R - Influência da radiação solar na degradação do polipropileno. 3º Congresso Internacional de Tecnologias para o Meio Ambiente – RS, BRASIL - 13/09/2021. Disponível em: 
+[3] Stieven, L; Marlene, R - Influência da radiação solar na degradação do polipropileno. 3º Congresso Internacional de Tecnologias para o Meio Ambiente – RS, BRASIL - 13/09/2021. Available in: 
 
 https://siambiental.ucs.br/congresso/getArtigo.php?id=71&ano=_terceiro Acessado: 
 
-[4] Ipen - Polímero - 13/09/2021. Disponível em:
+[4] Ipen - Polímero - 13/09/2021. Available in:
 
  https://www.ipen.br/portal_por/portal/interna.php?secao_id=737 
 
-[5] Veiga, E - Cada pessoa come até 121 mil partículas de plástico por ano, diz estudo - BBC News Brasil - 5 junho 2019. Disponível em:
+[5] Veiga, E - Cada pessoa come até 121 mil partículas de plástico por ano, diz estudo - BBC News Brasil - 5 junho 2019. Available in:
 
  https://www.bbc.com/portuguese/geral-48518601
 
-[6] Radiação eletromagnética - 9 abril 2023. Disponível em:
+[6] Radiação eletromagnética - 9 abril 2023. Available in:
 
 https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_eletromagn%C3%A9tica
 
@@ -249,21 +249,21 @@ https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality
 
 https://www.youtube.com/watch?v=X5_3YYcb0s4
 
-[9] Da Costa, G - MOVIMENTO HARMÔNICO SIMPLES (MHS) - 9 abril 2023. Disponível em: 
+[9] Da Costa, G - MOVIMENTO HARMÔNICO SIMPLES (MHS) - 9 abril 2023. Available in: 
 
 https://midia.atp.usp.br/plc/plc0002/impressos/plc0002_11.pdf
 
 [10] FORATO, L; BERNADES, R - A Espectroscopia na região do Infravermelho e algumas aplicações. Embrapa Instrumentação 2010 tiragem 300
 
-[11] MEIGIKOS, R. Prática 4/MIRS Microplásticos Slide. Disponível em: 
+[11] MEIGIKOS, R. Prática 4/MIRS Microplásticos Slide. Available in: 
 
 https://docs.google.com/presentation/d/1JemU9E2e_1zHjXZvxo4QAw- _V05XI3Ne/edit#slide=id.p34 
 
-[12] Albert A. Michelson - Biographical - 9 abril 2023. Disponível em: 
+[12] Albert A. Michelson - Biographical - 9 abril 2023. Available in: 
 
 https://www.nobelprize.org/prizes/physics/1907/michelson/biographical/
 
-[13] CATELLI, F. VICENZI, S. 2004 INTERFERÔMETRO DE MICHELSON. Disponível em: 
+[13] CATELLI, F. VICENZI, S. 2004 INTERFERÔMETRO DE MICHELSON. Available in: 
 
 https://periodicos.ufsc.br/index.php/fisica/article/view/10025/14562
 

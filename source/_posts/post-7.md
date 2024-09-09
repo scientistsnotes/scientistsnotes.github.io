@@ -1,8 +1,8 @@
 ---
 title: THEORY - Measuring the speed of propagation of electromagnetic radiation 
 date: 2024-08-20 16:43:00
-categories: [Programming]
-tags: [Physics, Nuclear physics, Experimental Physics]
+categories: [Physics]
+tags: [Physics, Nuclear physics, Experimental Physics, Radiation]
 mathjax: true
 ---
 
@@ -168,45 +168,45 @@ This post is part of the monograph written at the end of my undergraduate studie
 
 # References
 
-[1]  SILVA, Rui Miguel Moreira.  Experiências Históricas para a Determinação da Velocidade da Luz. Dissertação – Mestrado em “Física para o Ensino” – Faculdade de Ciências da Universidade do Porto, 2002. Disponível em:
+[1]  SILVA, Rui Miguel Moreira.  Experiências Históricas para a Determinação da Velocidade da Luz. Dissertação – Mestrado em “Física para o Ensino” – Faculdade de Ciências da Universidade do Porto, 2002. Available in:
 
 https://repositorio-aberto.up.pt/bitstream/10216/9581/2/4786_TM_01_C.pdf >
 
-[2]  GRIMM, Alice Marlene. Meteorologia Básica - Notas de Aula, 1999. Disponível em:
+[2]  GRIMM, Alice Marlene. Meteorologia Básica - Notas de Aula, 1999. Available in:
 
 http://fisica.ufpr.br/grimm/aposmeteo/cap2/cap2-2.html
 
-[3]  SOUSA, Wellington Batista.  Física das Radiações: Uma Proposta para o Ensino Médio. Dissertação – Mestrado em “Física para o Ensino” – USP, 2009.  Disponível em:  
+[3]  SOUSA, Wellington Batista.  Física das Radiações: Uma Proposta para o Ensino Médio. Dissertação – Mestrado em “Física para o Ensino” – USP, 2009.  Available in:  
 http://www.hu.usp.br/wp-content/uploads/sites/293/2016/05/23Texto-7-A-Interacao-Nuclear-e-a-Estabilidade-do-Nucleo.pdf
 
-[4]  Figura 1: Carta de Nuclídeos.  Copyright © 1996 by John Wiley & Sons, Inc. All rights reserved.  Disponível em: 
+[4]  Figura 1: Carta de Nuclídeos.  Copyright © 1996 by John Wiley & Sons, Inc. All rights reserved.  Available in: 
 
 https://slideplayer.com.br/slide/359082/
 
-[5]  HAHMAN, Hemin Aziz. Study of Gamma-Ray Spectrum by using Scintillation Detector and Single Channel Analyzer.  Fourth Stage – Physics Departament, 2010-2011.  Disponível em: 
+[5]  HAHMAN, Hemin Aziz. Study of Gamma-Ray Spectrum by using Scintillation Detector and Single Channel Analyzer.  Fourth Stage – Physics Departament, 2010-2011.  Available in: 
 
 https://pt.slideshare.net/HemnAzeez/gamma-ray-spectrum-by-using-na-itldetector
 
-[6]  TAUHATA, L., SALATI, I. P. A., Di PRINZIO, R., Di PRINZIO, M. A. R. R.  Radioproteção e Dosimetria: Fundamentos - Abril/2014 - Rio de Janeiro - IRD/CNEN. Disponível em: 
+[6]  TAUHATA, L., SALATI, I. P. A., Di PRINZIO, R., Di PRINZIO, M. A. R. R.  Radioproteção e Dosimetria: Fundamentos - Abril/2014 - Rio de Janeiro - IRD/CNEN. Available in: 
 
 https://appasp.cnen.gov.br/seguranca/documentos/FundamentosCORv10.pdf
 
-[7]  LIMA, Luis Spencer. Radiação Gama. Doutoramento em Química – Faculdade de Ciências da Universidade do Porto - Revista de Ciência Elementar, 2014. Disponível em:
+[7]  LIMA, Luis Spencer. Radiação Gama. Doutoramento em Química – Faculdade de Ciências da Universidade do Porto - Revista de Ciência Elementar, 2014. Available in:
 
 https://www.fc.up.pt/pessoas/jfgomes/pdf/vol_2_num_4_110_art_radiacaoGama.pdf
 
-[8]  FURIAN, Peter Hermes. Electromagnetic Spectrum. Disponível em:
+[8]  FURIAN, Peter Hermes. Electromagnetic Spectrum. Available in:
 
 https://www.infoescola.com/fisica/espectro-eletromagnetico/
 
-[9]  MARINHO, Paulo. Detectores a Gás Parte 1: Princípio de Funcionamento.  Coordenação de Instalações Nucleares - CNEN Coordenação de Matéria Condensada e Física Aplicada – CBPF, 2016. Disponível em:
+[9]  MARINHO, Paulo. Detectores a Gás Parte 1: Princípio de Funcionamento.  Coordenação de Instalações Nucleares - CNEN Coordenação de Matéria Condensada e Física Aplicada – CBPF, 2016. Available in:
 
 www.cbpf.br/~hlima/files/LSD%20-%20Detectores%20Parte%201.pdf
 
-[10]  HEATH, R. L. Scintillation Spectrometry – Gamma-Ray Spectrum Catalogue, 1964 - Rev. Electronic Update 1997.  Disponível em:
+[10]  HEATH, R. L. Scintillation Spectrometry – Gamma-Ray Spectrum Catalogue, 1964 - Rev. Electronic Update 1997.  Available in:
 
 https://drive.google.com/file/d/1NrTuMk6pvcmwhBaH7hlTq0IvlFMTDl07/view
 
-[11]  CAVALCANTE, José T.P.D., SILVA, Paulo R.J., SAITOVITCH, Henrique.  Perpendicularidade entre as Direções de Polarização Linear das Radiações-ã Originárias do Processo de Aniquilação Pósitron-Elétron: uma Lei de Conservação - CBPF-NF-016/09.  Disponível em:
+[11]  CAVALCANTE, José T.P.D., SILVA, Paulo R.J., SAITOVITCH, Henrique.  Perpendicularidade entre as Direções de Polarização Linear das Radiações-ã Originárias do Processo de Aniquilação Pósitron-Elétron: uma Lei de Conservação - CBPF-NF-016/09.  Available in:
 
 https://cbpfindex.cbpf.br/publication_pdfs/nf01609.2009_08_14_11_18_36.pdf
