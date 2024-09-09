@@ -1,10 +1,11 @@
 ---
-title: THEORY - Infrared Spectroscopy in the Analysis of Microplastics
+title: THEORY - Measuring the speed of propagation of electromagnetic radiation 
 date: 2024-08-20 16:43:00
 categories: [Programming]
-tags: [Spectroscopy, Experimental Physics, Microplastic]
+tags: [Physics, Nuclear physics, Experimental Physics]
 mathjax: true
 ---
+
 
 # Introduction 
 
@@ -14,7 +15,7 @@ Over the course of history, especially in the last 400 years, the speed of light
 
 In addition to the discussion about the speed at which light propagates, its nature has also been the subject of study.  Isaac Newton believed that light was made up of particles, while Christian Huygens believed that light was an electromagnetic wave, which could travel without the need for a physical medium to transport it [1].
 
-With this thought that light is an electromagnetic wave and that it is possible to calculate its speed, the necessary motivation to carry out this experiment was created, since gamma radiation (γ) is also an electromagnetic wave [1], and therefore must move with a speed similar to that of light, i.e. $ c = 2.99796 x 10^8 m/s $.
+With this thought that light is an electromagnetic wave and that it is possible to calculate its speed, the necessary motivation to carry out this experiment was created,  since gamma radiation (γ) is also an electromagnetic wave [1], and therefore must move with a speed similar to that of light, i.e. $ c = 2.99796 x 10^8 m/s $.
 
 # Theoretical Foundations
 ## Radiation
