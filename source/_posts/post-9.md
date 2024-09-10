@@ -6,7 +6,7 @@ tags: [Physics, Nuclear physics, Experimental Physics, Radiation]
 mathjax: true
 ---
 
-In the previous post (click here)[https://scientistsnotes.github.io/2024/08/20/post-7/] I talked about the theory of how fast electromagnetic radiation propagates. Now, the focus will be on the experimental part.
+In the previous post [click here](https://scientistsnotes.github.io/2024/08/20/post-7/) I talked about the theory of how fast electromagnetic radiation propagates. Now, the focus will be on the experimental part.
 
 The measurements were carried out in 2018/2019 in the Multiuser Laboratory of Experimental Physics (LAFEX) of the Brazilian Center for Physics Research (CBPF), during an internship, under the guidance of Prof. André Massafferri Rodrigues and co-supervision of Prof. Henrique Saitovitch. This laboratory had all the necessary infrastructure for developing the experimental setup, consisting of radiation detectors, modules and associated acquisition electronics and a 22Na radioactive source. An illustration of the layout of the experimental setup used in this monograph is shown in Figure 01. The positrons generated from a 22Na source are annihilated with electrons present in an aluminum film covering the source. The photons generated in the annihilation process were directed to the scintillator detector, which in turn produced an analog signal for the electronic device, which transformed it into a digital signal so that it could be directed to the data acquisition system. This chapter will present the main characteristics of this arrangement.
  
@@ -102,7 +102,7 @@ A specific electronic system for a given application can be created easily, simp
 
 There are two standard types of logic: slow-positive logic and fast-negative logic. The first refers to signals with slow rise times, in the order of hundreds of nanoseconds (ns) or more. They have a positive polarity and are used with slow detection systems. A disadvantage of these signals is that they cannot be transmitted over very long cables, as the signal becomes very attenuated as the wire size increases.
 
-Fast-negative logic, also called NIM logic, uses extremely fast signals with rise times of around 1 ns and comparable widths. This type of signal is often used in experiments using fast detectors. Fast signals can be transmitted over relatively long cables because they are not attenuated [08].   The output signals from the PMTs are routed to the NIM acquisition system. Read more about the modules that make up the NIM standard (click here)[https://scientistsnotes.github.io/2024/08/20/post-7/].
+Fast-negative logic, also called NIM logic, uses extremely fast signals with rise times of around 1 ns and comparable widths. This type of signal is often used in experiments using fast detectors. Fast signals can be transmitted over relatively long cables because they are not attenuated [08].   The output signals from the PMTs are routed to the NIM acquisition system. Read more about the modules that make up the NIM standard [click here](https://scientistsnotes.github.io/2024/08/20/post-7/).
 
 # BASIC COINCIDENCE TECHNIQUE
 
@@ -154,7 +154,7 @@ In the third coincidence mode, called slow-fast, the pulses coming from the sing
 It is necessary to calibrate the timing, via the TC module, according to the ADC channels. The TC produces two pulses emitted with a high-precision variable delay, with a positive START/STOP output polarity, which are sent to the TAC's START/STOP inputs, where they undergo a coincidence process.   For time calibration, pulses with a 10 ns delay were sent to the TAC. From the TAC output, the pulse is sent to the ADC, completing the time calibration. After the time calibration, data collection begins.
 
 ---
-This post is part of the monograph written at the end of my undergraduate studies at the Universidade Federal Fluminense (UFF). Due to the size of the content, this post will be divided into three parts: theoretical (click here), experimental and analysis of results (click here).
+This post is part of the monograph written at the end of my undergraduate studies at the Universidade Federal Fluminense (UFF). Due to the size of the content, this post will be divided into three parts: theoretical [click here](https://scientistsnotes.github.io/2024/08/20/post-7/), experimental and analysis of results [click here](https://scientistsnotes.github.io/2024/09/09/post-10).
 ---
 
 # References
