@@ -102,7 +102,7 @@ A specific electronic system for a given application can be created easily, simp
 
 There are two standard types of logic: slow-positive logic and fast-negative logic. The first refers to signals with slow rise times, in the order of hundreds of nanoseconds (ns) or more. They have a positive polarity and are used with slow detection systems. A disadvantage of these signals is that they cannot be transmitted over very long cables, as the signal becomes very attenuated as the wire size increases.
 
-Fast-negative logic, also called NIM logic, uses extremely fast signals with rise times of around 1 ns and comparable widths. This type of signal is often used in experiments using fast detectors. Fast signals can be transmitted over relatively long cables because they are not attenuated [08].   The output signals from the PMTs are routed to the NIM acquisition system. Read more about the modules that make up the NIM standard [click here](https://scientistsnotes.github.io/2024/08/20/post-7/).
+Fast-negative logic, also called NIM logic, uses extremely fast signals with rise times of around 1 ns and comparable widths. This type of signal is often used in experiments using fast detectors. Fast signals can be transmitted over relatively long cables because they are not attenuated [08].   The output signals from the PMTs are routed to the NIM acquisition system. Read more about the modules that make up the NIM standard [click here](https://scientistsnotes.github.io/2024/09/09/post-11/).
 
 # BASIC COINCIDENCE TECHNIQUE
 
