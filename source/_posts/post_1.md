@@ -1,5 +1,5 @@
 ---
-title: Radiation symbol
+title: Curiosity - Radiation symbol
 date: 2024-07-1 00:00:00
 categories: [Short]
 tags: [Curiosity]
