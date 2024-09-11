@@ -1,5 +1,5 @@
 ---
-title: Why are Hiroshima and Nagasaki habitable and Chernobyl not?
+title: Curiosity - Why are Hiroshima and Nagasaki habitable and Chernobyl not?
 date: 2024-07-13 00:00:00
 categories: [Short]
 tags: [Curiosity]
