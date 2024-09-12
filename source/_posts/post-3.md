@@ -41,7 +41,7 @@ But what is a very small dose? To calculate the effects of radiation on our bodi
 
  According to table 01, the dose limit for an individual is 1 mSv/year[4], which means that doses above this level can cause various types of damage such as cell death, blood problems, infertility, DNA problems and many others.  Table 02 shows the radiation doses related to the damage caused to humans.
 
-.
+
 <p style="text-align: center;">
   Table 01: Dose limits for workers and the public [4]</p>
 {% asset_img "3.webp" "Table 01" %}
@@ -54,7 +54,7 @@ But what is a very small dose? To calculate the effects of radiation on our bodi
 
 When calculating the doses in Table 02, the following factors were taken into account: exposure time, distance from the radioactive source and containment barriers, which can be considered as ways of preventing radiological damage.  The formula used in this calculation is given by:
 
-$$Dose = \Gamma\frac{At}{d^2}$$
+$Dose = \Gamma\frac{At}{d^2}$
 
 Where: $\Gamma $ is the specific radiation constant, $ A $ is the activity of the radioactive source, $ t $ is the time the patient was exposed and $ d $ is the distance from the radioactive source.
 
