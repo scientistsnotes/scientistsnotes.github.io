@@ -6,7 +6,7 @@ tags: [Physics, Nuclear physics,  Radiation, Curiosity]
 mathjax: true
 ---
 
-In my last post, I talked a bit about the 5 most serious radiological accidents that have occurred over the years [Click here](). And I've separated out some questions that I found interesting and would like to answer: And when an accident happens, how are people contaminated?  We'll talk about that in this post.
+In my last post, I talked a bit about the 5 most serious radiological accidents that have occurred over the years [Click here](https://scientistsnotes.github.io/2024/09/11/post-12/). And I've separated out some questions that I found interesting and would like to answer: And when an accident happens, how are people contaminated?  We'll talk about that in this post.
 
 We can briefly describe radiation as a physical phenomenon that can be defined as energy in motion, i.e. the propagation of a particle between two points in space, either through a vacuum or through any material medium. [1]
 
