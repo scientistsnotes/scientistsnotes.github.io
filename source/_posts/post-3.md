@@ -58,7 +58,7 @@ $Dose = \Gamma\frac{At}{d^2}$
 
 Where: $\Gamma $ is the specific radiation constant, $ A $ is the activity of the radioactive source, $ t $ is the time the patient was exposed and $ d $ is the distance from the radioactive source.
 
-{% asset_img "5.webp" "Table 02" %}
+{% asset_img "5.png" ""%}
 
 By analyzing the formula above, you can see that the shorter the exposure time, the greater the distance and the more containment barriers, the more protected the individual will be. So these should be the important factors when being in the presence of a radioactive source. In addition, as highlighted above, internal contamination is much more dangerous, which is why protecting the nose and mouth is essential.
 
