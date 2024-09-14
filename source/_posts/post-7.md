@@ -100,7 +100,9 @@ Particle emission processes are relatively slow with a half-life (τ1/2) of hund
 
 The energy of gamma radiation is well defined and depends only on the initial and final energy values of the orbitals involved in the transition, i.e,
 
-$ Ey = Ei - Ef = h.v $
+\begin{equation}
+E_y = E_i - E_f = h.v 
+\end{equation}
 
 where $ E $ is the energy, $ h $ is Planck's constant ( $ 6.6252 x 10^-34 J.s $ ) and $ v $ is the frequency of the radiation[6].
 
@@ -122,11 +124,9 @@ Considering photon scattering, there are two possibilities: the resulting photon
 
 If they have the same energy, the resulting photon, in addition to being scattered and moving in a different direction to the original, does not release any electrons or positrons in the interaction.  If they have different energies, the difference in energy is transferred as kinetic energy to the moving electron.
 
-Read more about the interaction of radiation with matter in this post ([click here](https://scientistsnotes.github.io/2024/07/13/theorythe%20interactionofradiationwithmatter/)).
-
 ## 1.3 PHENOMENA FOR MEASURING RADIATION
 
-The main types of γ-ray interactions with matter are: Photoelectric Absorption, Compton Scattering and Pair Production.  Read about these interactions here ([click here](https://scientistsnotes.github.io/2024/07/13/theorythe%20interactionofradiationwithmatter/)).
+The main types of γ-ray interactions with matter are: Photoelectric Absorption, Compton Scattering and Pair Production.  Read about these interactions here [click here](https://scientistsnotes.github.io/2024/07/13/post_2/).
 
 ## 1.4 $22Na$ decay
 The sodium isotope 22 (22Na) is one of the unstable elements shown in Figure 1 that are trying to reach equilibrium and thus emit radiation. 22Na is an artificial isotope with a τ1/2 of approximately 2.6 years.

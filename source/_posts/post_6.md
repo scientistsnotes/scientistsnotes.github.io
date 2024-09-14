@@ -37,7 +37,9 @@ Electromagnetic waves [6] [Figure 1] are oscillations formed by electric and mag
 
 This energy depends on the wave number:
 
-$$ E = hc\lambda^{-1} $$
+\begin{equation}
+E = hc \lambda^{-1}
+\end{equation}
 
 where:
 
@@ -104,7 +106,9 @@ Molecular vibrations can be classified into axial deformations or stretches and 
 
 Each atom will have its own vibrational mode with its own characteristic frequency. The frequency range of The frequency range of interest is 4000 to 400 cm -1, which is the average MIR range and is also the frequency capable of exciting an organic molecule. In section 2.3, photon absorption and emission were explained and here the idea remains the same, but with some modifications as it is a harmonic oscillator model, whose energy variation for the state transition to occur is given by:
 
-$$ \Delta E = hf $$
+\begin{equation}
+\Delta E = hf
+\end{equation}
 
 where
 
@@ -116,11 +120,11 @@ $ f $ is the vibrational frequency.
 
 Remember that the molecular energy is the sum of the rotational, vibrational and electron excitation energies:
 
-$$ E = E_{vib} + E_{rot} + E_{el} $$
+{% asset_img "2.svg" "" %}
 
 the frequency of an oscillator made up of 2 atoms will be:
 
-$$ f = \frac{1}{2\pi}\sqrt{\frac{F}{\mu}} $$
+{% asset_img "3.svg" "" %}
 
 where:
 

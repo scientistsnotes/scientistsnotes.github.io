@@ -54,11 +54,13 @@ But what is a very small dose? To calculate the effects of radiation on our bodi
 
 When calculating the doses in Table 02, the following factors were taken into account: exposure time, distance from the radioactive source and containment barriers, which can be considered as ways of preventing radiological damage.  The formula used in this calculation is given by:
 
-$Dose = \Gamma\frac{At}{d^2}$
+\begin{equation}
+ \text{Dose} = \Gamma\frac{At}{d^2}
+\end{equation}
 
 Where: $\Gamma $ is the specific radiation constant, $ A $ is the activity of the radioactive source, $ t $ is the time the patient was exposed and $ d $ is the distance from the radioactive source.
 
-{% asset_img "5.png" ""%}
+{% asset_img "5.png" "1"%}
 
 By analyzing the formula above, you can see that the shorter the exposure time, the greater the distance and the more containment barriers, the more protected the individual will be. So these should be the important factors when being in the presence of a radioactive source. In addition, as highlighted above, internal contamination is much more dangerous, which is why protecting the nose and mouth is essential.
 

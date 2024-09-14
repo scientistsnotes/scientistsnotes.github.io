@@ -1,9 +1,9 @@
 ---
 title: THEORY - The interaction of radiation with matter
 date: 2024-07-13 00:00:00
-mathjax: true
 categories: [Physics]
 tags: [Radiation, Nuclear physics,Experimental Physics]
+mathjax: true
 ---
 
 This article was one of the evaluations we had during the pandemic in the Modern Physics Laboratory II course, taught by Professor Dr. Roberto Meigikos during his undergraduate studies at the Fluminense Federal University (UFF). As it was distance learning, it wasn't possible to carry out the experiments physically, so we used data collected by students from previous semesters. In this post we aim to present the theoretical physics behind the interaction of radiation with material, and experimentally, simulating a tomography of a lung, built with low-cost material.
@@ -30,30 +30,42 @@ The main interactions, excluding nuclear reactions, are: photoelectric effect, C
 
 ## Photoelectric effect
 
-$$E_{c} = h \cdot v - B_{e}$$
- 
- Where: h is Planck's constant, $𝑣$ is the frequency of the radiation and $𝐵_{𝑒}$ is the binding energy of the orbital electron.
+In the case of the photoelectric effect [6], the incident photon gives up all its energy to a single orbital electron of any level of an electronic cloud of the atom with which it interacts [Figure 2]. The particle is expelled with energy 𝐸𝑐, leaving the atom ionized.
 
- {% asset_img "b.webp" "Figure 2" %}
+
+{% asset_img "1.svg" "" %}
+
+Where: h is Planck's constant, $𝑣$ is the frequency of the radiation and $𝐵_{𝑒}$ is the binding energy of the orbital electron.
+
+{% asset_img "b.webp" "Figure 2" %}
 <p style="text-align: center;">
-  Figure 2: Representation of the photoelectric effect.  <br>
-  Source: http://appasp.cnen.gov.br/seguranca/documentos/FundamentosCORv10.pdf   </p>
+Figure 2: Representation of the photoelectric effect.  <br>
+Source: http://appasp.cnen.gov.br/seguranca/documentos/FundamentosCORv10.pdf   </p>
 
 
 ## Compton effect
 
 In the Compton effect [7] the incident photon gives up part of its energy to a single orbital electron of any level of the electronic cloud of the atom with which it interacts [Figure 3], ionizing an atom. A scattered radiation known as a Compton ray appears, with lower energy than the incident photon. The energy of the scattered photon $E'_\gamma$ will be:
  
-$$E^{'}{\gamma} = \frac{E{\gamma}}{ 1 + \alpha(1 - \cos{\theta})}$$
  
+
+\begin{equation}
+     E^{'}{\gamma} = \frac{E{\gamma}}{ 1 + \alpha(1 - \cos{\theta})}
+\end{equation}
+
+
 Where: $E_\gamma$ is the energy of the incident photon.
  
-$$\alpha = \frac{E_\gamma}{m_o c^2}$$
  
+\begin{equation}
+     \alpha = \frac{E_\gamma}{m_o c^2}
+\end{equation}
+
+
 The energy of the scattered photon is maximum for $\theta = 0^{\circ}$ and minimum for $\theta = 180^{\circ} $. The kinetic energy of the ejected electron is maximum for this case and equal to:
  
-$$T_{max} = E_\gamma \frac{2\alpha}{1 + 2\alpha}$$
- 
+{% asset_img "5.svg" "" %}
+
 In general, the direction of the Compton ray is unpredictable because it depends on the geometry of the interaction between the incident photon and the electron.
 
 {% asset_img "c.webp" "Figure 3" %}
@@ -64,17 +76,19 @@ In general, the direction of the Compton ray is unpredictable because it depends
 
 ## Pair production effect
 
-The pair production effect[8] can only occur when the incident photon has relatively high energy ( 𝐸𝛾 > 1.022 𝑀𝑒𝑉 ) and the energy materializes [Figure 4] When passing close to the nucleus, the photon interacts with the nuclear electric field, dissipating energy and transforming into a pair of electrons (one negative, one positive)
+The pair production effect[8] can only occur when the incident photon has relatively high energy ( 𝐸𝛾 > 1.022 𝑀𝑒𝑉 ) and the energy materializes [Figure 4] When passing close to the nucleus, the photon interacts with the nuclear electric field, dissipating energy and transforming into a pair of electrons (one negative, one positive).
  
-$$\gamma \rightarrow e^+ + e^- + \textbf{kinetic energy}$$
+\begin{equation}
+      \gamma \rightarrow e^+ + e^- + \textbf{kinetic energy}
+\end{equation}
  
+
 If $E_\gamma$ is greater than 1.022 𝑀𝑒𝑉 the pair of electrons will receive kinetic energy
 
 {% asset_img "d.webp" "Figure 4" %}
 <p style="text-align: center;">
   Figure 4: Representation of the pair production effect.   <br>
   Source: http://appasp.cnen.gov.br/seguranca/documentos/FundamentosCORv10.pdf  </p>
-
 
 # Analysis of the probability of occurrence of the photoelectric, pair production and Compton effects
 
@@ -85,28 +99,28 @@ We can see in [Figure 5] that the photon's interaction with matter has a probabi
   Figure 5: Representation of the probability of photon interaction with matter.  <br>
   Source: Lecture material by Professor Dr. Meigikos. </p>
 
+{% asset_img "f.webp" "Table 01" %}
+<p style="text-align: center;">
+Table 01: Predominance of effects according to photon energy.   <br>
+Source: Lecture material by Professor Dr. Meigikos.   </p>
 
 For an atomic number equal to 20 (calcium), which is the mineral present in the human body [10], mainly in bones, we have [Table 1] with the range of dominance according to the energy of the incident photon. We can see that the Compton effect has the largest range, considering energies above 10 MeV. This energy range is not normally found in natural radiation but only in particle accelerators, such as Sirius (Brazil) and LHC (Switzerland).
-
-<p style="text-align: center;">
-  Table 01: Predominance of effects according to photon energy.   <br>
-  Source: Lecture material by Professor Dr. Meigikos.   </p>
-{% asset_img "f.webp" "Table 01" %}
-
-
+ 
 # Stopping power
 
 The particle's interaction with the absorbing material determines its energy loss and therefore its range in the material. As the number of interactions over a macroscopic length is large compared to the energy fluctuations, an average value of this loss can be obtained. So, when passing through a distance x, the particle's energy loss will be given by dE/dx.
  
 This interaction is a probabilistic process and has the direct consequence of energy loss through kinetic energy. The stopping power, or stopping power, is the negative of the average value of the energy loss
 energy loss by distance:
+
  
-$$\text{S(stopping power)} = - \left<\frac{dE}{dx}\right> $$
- 
+  \begin{equation}
+      $\text{S(stopping power)} = - \left<\frac{dE}{dx}\right> $
+\end{equation}
 Calculating the average value of this derivative, we find that:
  
-$$\left<\frac{dE}{dx}\right> = - \frac{4\pi e^4z^2}{m_0 c^2\beta^2}N\frac{Z}{A}\left[\frac{1}{2} ln\frac{2m_0c^2\beta^2}{I^2(1-\beta^2)}T_{max} - \beta^2 - \frac{\delta}{2}\right]$$
- 
+
+{% asset_img "3.svg" "" %}
 Where:
  
 $\frac{4\pi e^4z^2}{m_0 c^2\beta^2}$ - Characteristics of the incident beam and $\beta$ is the velocity of the particle (the faster, the lower the loss)
@@ -146,8 +160,10 @@ The cross section represents the probability of a given reaction or interaction 
  
 The flux incident on the target is
  
-$$ \phi_A = \frac{N_A}{A} $$
  
+ \begin{equation}
+      \phi_A = \frac{N_A}{A} 
+\end{equation}
 where
 
 
@@ -155,8 +171,10 @@ $N_A$ is the number of photons per unit time incident on a region whose area is 
  
 The number of atoms in the material $n_B$ will be
  
-$$ n_B = AdN_B $$
  
+ \begin{equation}
+     n_B = AdN_B  
+\end{equation}
 being
  
 d is the thickness of the material S surface
@@ -165,15 +183,18 @@ $N_B $ is the number of scattering centers per unit volume in the alv
  
 Then we can write the shock section as
  
-$$\theta_{tot} = \frac{N_{tot}}{\phi_A n_B}$$
+
  
-Ond
+{% asset_img "XX.svg" "" %}
+Where
  
 $N_{tot}$ are the total number of photons that interact with the material per unit time.
  
 The intensity of the radiation obeys the inverse square law of its radial distance [12][Figure 9]
- 
-$$I = \frac{\phi_A}{4\pi r^2}$$
+  
+ \begin{equation}
+   I = \frac{\phi_A}{4\pi r^2}  
+\end{equation}
 
 {% asset_img "i.png" "Figure 8" %}
 <p style="text-align: center;">
