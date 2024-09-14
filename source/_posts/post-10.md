@@ -22,7 +22,9 @@ When ROOT was fed with the data obtained, as the first step in the analysis, the
 
 Then, the data distributed over the channels that appear on the ADC, as shown in Figure 02-A, is transformed into time. When ROOT makes this transformation, it generates a straight line, using the equation:
 
-$$y = ax + b$$ 
+\begin{equation}
+ y = ax + b 
+\end{equation}
 
 where corresponds to time, corresponds to the calibration result in the final position, the ADC Channel and the calibration result in the initial position, as shown in Figure 02-B.
 
@@ -60,11 +62,19 @@ Then, as a final step, ROOT calculates the speed of propagation of the electroma
 
 Then, given the variation in time ($ {\Delta t} $ ) and position ($ {\Delta s} $ ), one of the main kinematic equations is used to calculate the average speed:
 
-$$ v = \frac{\Delta s}{ \Delta t} $$
+
+\begin{equation}
+v = \frac{\Delta s}{ \Delta t}
+\end{equation}
+
 
 The result obtained in this experiment was:
 
-$$ c = 2.92 x 10^8 m/s $$
+
+\begin{equation}
+c = 2.92 x 10^8 m/s 
+\end{equation}
+
 
 When compared to the theoretical value of the speed of light, given by , this experimental result is in the same order of magnitude.  In other words, the electromagnetic radiation emitted by the 22Na source measured in this experimental practice propagates with a value very close to the reference value, achieving 98% of the expected value, which shows how satisfactory this measurement was.
 
